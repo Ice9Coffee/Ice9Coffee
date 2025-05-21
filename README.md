@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<a href="https://github.com/Ice9Coffee">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ice9Coffee&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Ice9Coffee">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ice9Coffee&layout=compact" />
+</a>
+
 <!--
 **Ice9Coffee/Ice9Coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
